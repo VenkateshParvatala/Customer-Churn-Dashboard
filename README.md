@@ -23,8 +23,7 @@ An interactive **Excel Dashboard** analyzing customer churn rate using slicers, 
 - **Total Customers:** 10,000  
 - **Active Members:** 5,151  
 - **Exited Customers:** 2,038  
-- **Churn Rate:** ~20%  
-- **Top Retained Segment:** Industry → IT & Finance  
+- **Churn Rate:** ~20%    
 
 ---
 
