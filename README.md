@@ -3,8 +3,8 @@ Interactive Excel Dashboard analyzing customer churn rate using slicers, KPIs, a
 
 # 📊 Customer Churn Dashboard  
 
-An interactive **Excel Dashboard** analyzing customer churn rate using slicers, KPIs, and visual insights.  
-
+An interactive **Excel Dashboard** analyzing customer churn rate using slicers, KPIs, and visual insights. 
+![Dashboard Preview]( https://github.com/VenkateshParvatala/Customer-Churn-Dashboard/blob/main/dashboard_preview.png?raw=true )
 ---
 
 ## 🔗 View or Download the Dashboard  
